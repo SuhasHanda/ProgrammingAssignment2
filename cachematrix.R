@@ -1,4 +1,4 @@
-## The purpose of both the functions is allow user to take inverse of the
+## The purpose of both the functions is to allow user to inverse the
 ## matrix and retrieve using cache memory to save time for the created 
 ## object
 
